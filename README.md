@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suman saha
 ==================================================================================================================================
 
-Web Developer an Designer
+Web Developer and Designer
 -------------------------
 
 Hello! I'm Suman, third-year Computer Science student passionate about web development and full-stack programming. Currently diving deep into the world of full-stack development, I'm eager to collaborate with fellow tech professionals and innovative companies to expand my skills and contribute to exciting projects.
